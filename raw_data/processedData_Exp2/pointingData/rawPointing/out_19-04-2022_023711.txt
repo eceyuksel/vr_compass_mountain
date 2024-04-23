@@ -1,0 +1,136 @@
+out_19-04-2022_023711.txt
+
+Scene Name is Silcton_Pointing_VR_Compass
+
+Participant ID is 2046
+
+pointingDiamondIndex,facingDiamondIndex,targetBuildingIndex,pointingAngle
+
+Batty House,Lynch Station,Golledge Hall,47.7391
+
+Batty House,Lynch Station,Tobler Museum,93.12218
+
+Batty House,Lynch Station,Snow Church,79.15789
+
+Batty House,Lynch Station,Harvey House,20.77036
+
+Batty House,Lynch Station,Compass North,-179.6294
+
+Batty House,Lynch Station,Lynch Station,98.29337
+
+Batty House,Lynch Station,Harris Hall,62.8304
+
+Batty House,Lynch Station,Sauer Center,47.22234
+
+Lynch Station,Harris Hall,Tobler Museum,23.38579
+
+Lynch Station,Harris Hall,Batty House,135.1145
+
+Lynch Station,Harris Hall,Golledge Hall,-10.91437
+
+Lynch Station,Harris Hall,Harris Hall,11.20001
+
+Lynch Station,Harris Hall,Sauer Center,33.88574
+
+Lynch Station,Harris Hall,Harvey House,43.53907
+
+Lynch Station,Harris Hall,Compass North,115.762
+
+Lynch Station,Harris Hall,Snow Church,63.21542
+
+Harris Hall,Harvey House,Harvey House,-19.4757
+
+Harris Hall,Harvey House,Golledge Hall,-174.7374
+
+Harris Hall,Harvey House,Sauer Center,-109.6005
+
+Harris Hall,Harvey House,Compass North,139.4858
+
+Harris Hall,Harvey House,Batty House,114.8876
+
+Harris Hall,Harvey House,Tobler Museum,-68.01917
+
+Harris Hall,Harvey House,Lynch Station,-18.64742
+
+Harris Hall,Harvey House,Snow Church,-93.58189
+
+Harvey House,Harris Hall,Compass North,-130.9893
+
+Harvey House,Harris Hall,Snow Church,71.41542
+
+Harvey House,Harris Hall,Lynch Station,27.93013
+
+Harvey House,Harris Hall,Tobler Museum,105.1943
+
+Harvey House,Harris Hall,Golledge Hall,69.79046
+
+Harvey House,Harris Hall,Harris Hall,104.298
+
+Harvey House,Harris Hall,Batty House,77.76389
+
+Harvey House,Harris Hall,Sauer Center,25.59676
+
+Golledge Hall,Snow Church,Harvey House,-43.78612
+
+Golledge Hall,Snow Church,Snow Church,-5.236672
+
+Golledge Hall,Snow Church,Lynch Station,-76.23186
+
+Golledge Hall,Snow Church,Sauer Center,-76.79576
+
+Golledge Hall,Snow Church,Harris Hall,-131.7782
+
+Golledge Hall,Snow Church,Batty House,-172.0113
+
+Golledge Hall,Snow Church,Compass North,84.58952
+
+Golledge Hall,Snow Church,Tobler Museum,-44.49201
+
+Snow Church,Sauer Center,Lynch Station,16.15108
+
+Snow Church,Sauer Center,Compass North,-101.2749
+
+Snow Church,Sauer Center,Harvey House,-107.28
+
+Snow Church,Sauer Center,Batty House,-82.02427
+
+Snow Church,Sauer Center,Tobler Museum,-50.7123
+
+Snow Church,Sauer Center,Harris Hall,-89.2417
+
+Snow Church,Sauer Center,Sauer Center,-0.5730078
+
+Snow Church,Sauer Center,Golledge Hall,-126.5013
+
+Sauer Center,Tobler Museum,Batty House,-10.80291
+
+Sauer Center,Tobler Museum,Golledge Hall,-46.78901
+
+Sauer Center,Tobler Museum,Compass North,-31.81681
+
+Sauer Center,Tobler Museum,Harris Hall,-22.25098
+
+Sauer Center,Tobler Museum,Harvey House,-28.22345
+
+Sauer Center,Tobler Museum,Lynch Station,-4.445807
+
+Sauer Center,Tobler Museum,Snow Church,-87.22524
+
+Sauer Center,Tobler Museum,Tobler Museum,5.494511
+
+Tobler Museum,Sauer Center,Batty House,164.3076
+
+Tobler Museum,Sauer Center,Harvey House,6.686331
+
+Tobler Museum,Sauer Center,Harris Hall,22.47684
+
+Tobler Museum,Sauer Center,Golledge Hall,74.11951
+
+Tobler Museum,Sauer Center,Sauer Center,-3.202896
+
+Tobler Museum,Sauer Center,Snow Church,24.73988
+
+Tobler Museum,Sauer Center,Compass North,130.0174
+
+Tobler Museum,Sauer Center,Lynch Station,-177.213
+

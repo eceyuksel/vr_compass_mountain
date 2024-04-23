@@ -1,0 +1,8 @@
+log_18-02-2022_015421.txt
+
+Scene Name is Silcton_B_Arrows_VR
+
+Participant ID is 0075
+
+x,y,z,walking_angle,head_angle
+

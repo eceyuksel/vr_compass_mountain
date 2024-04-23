@@ -1,0 +1,151 @@
+﻿ID,Silcton ID,Pilot,Condition,Date,Time Arrived,Time Done,Tasks_done,First_Building_in_model building
+2000,NA,Yes,Compass,4/22/2021,4:33 PM,NA,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",
+2001,0004,Yes,Mountains,3/15/2022,1:50 PM,3:00 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2002,0005,Yes,Mountains,3/15/2022,3:30 PM,4:18 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2003,0006,Yes,Mountains,3/16/2022,10:30 AM,11:33 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2004,0007,Yes,Mountains,3/16/2022,12:00 PM,1:00 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2005,0008,Yes,Mountains,3/16/2022,1:40 AM,2:58 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2006,0009,Yes,Mountains,3/18/2022,1:00 AM,1:55 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2007,0010,No,Compass,3/23/2022,9:36 AM,10:52 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Snow Church
+2008,0011,No,Mountains,3/23/2022,11:20 AM,12:30 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2009,n/a,No,Compass,3/23/2022,2:18 PM,2:58 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2010,n/a,No,Mountains,3/25/2022,9:35 AM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2011,0012,No,Compass,3/25/2022,10:50 AM,11:50 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2012,2012,No,Mountains,3/29/2022,12:01 PM,1:08 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Tobler Museum
+2013,2013,No,Compass,4/1/2022,9:35 AM,10:19 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2014,2014,No,Mountains,4/1/2022,12:32 PM,1:37 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2015,2015,No,Compass,4/1/2022,3:55 AM,4:54 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2016,2016,No,Mountains,4/4/2022,12:30 PM,1:23 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2017,2017,No,Compass,4/5/2022,12:00 PM,1:26 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2018,2018,No,Mountains,4/6/2022,9:28 AM,10:29 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Harvey House
+2019,2019,No,Compass,4/6/2022,1:00 PM,2:16 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Lynch Station
+2020,n/a,No,Mountains,4/8/2022,9:27 AM,10:03 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2021,2021,No,Compass,4/11/2022,9:30 AM,10:27 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2022,2022,No,Mountains,4/11/2022,10:56 AM,11:52 aM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Tobler Museum
+2023,2023,No,Compass,4/11/2022,2:30 PM,3:06 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2024,2024,No,Mountains,4/12/2022,12:00 PM,12:51 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2025,2025,No,Compass,4/12/2022,1:20 PM,2:26 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Lynch Station
+2026,2026,No,Mountains,4/13/2022,12:51 PM,1:40 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2027,2027,No,Compass,4/13/2022,2:35 PM,3:32 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2028,2028,No,Mountains,4/13/2022,3:47 PM,5:01 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2029,2029,No,Compass,4/14/2022,2:30 PM,3:17 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2030,2030,No,Mountains,4/15/2022,9:35 AM,10:36 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2031,2031,No,Compass,4/15/2022,11:00 AM,11:43 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2032,n/a,No,Compass,4/15/2022,12:42 PM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2033,2033,No,Compass,4/15/2022,4:45 PM,5:30 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2034,2034,No,Mountains,4/16/2021,9:19 AM,10:12 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2035,2035,No,Mountains,4/16/2021,10:23 AM,11:24 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2036,2036,No,Compass,4/16/2021,12:25 PM,1:32 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2037,2037,No,Mountains,4/16/2021,2:02 PM,3:01 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2038,2038,No,Mountains,4/16/2021,3:29 PM,4:22 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Lynch Station
+2039,2039,No,Mountains,4/16/2021,5:00 PM,5:55 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2040,2040,No,Mountains,4/18/2022,9:30 AM,10:31 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2041,2041,No,Compass,4/18/2022,10:51 AM,11:38 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2042,2042,No,Mountains,4/18/2022,12:53 PM,2:03 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2043,2043,No,Compass,4/18/2022,2:31 PM,3:25 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Snow Church
+2044,2044,No,Mountains,4/18/2022,3:35 PM,4:19 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2045,2045,No,Compass,4/18/2022,5:13 PM,6:24 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2046,2046,No,Compass,4/19/2022,2:02 PM,2:54 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2047,2047,No,Compass,4/19/2022,3:23 PM,4:28 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2048,2048,No,Mountains,4/20/2022,11:51 AM,1:07 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2049,2049,No,Mountains,4/20/2022,1:11 PM,x,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",
+2050,2050,No,Mountains,6/30/2022,10:25 AM,11:29 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2051,2051,No,Compass,6/30/2022,11:35 AM,12:42 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2052,2052,No,Mountains,7/1/2022,8:57 AM,10:06 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",
+2053,2053,No,Compass,7/1/2022,10:24 AM,11:21 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2054,2054,No,Mountains,7/1/2022,11:57 AM,1:05 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2055,2055,No,Compass,7/1/2022,1:23 PM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2056,2056,No,Mountains,7/1/2022,2:42 PM,3:52 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2057,2057,No,Compass,7/1/2022,4:27 PM,5:34 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2058,2058,No,Mountains,7/2/2022,10:28 AM,11:34 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2059,2059,No,Compass,7/2/2022,12:07 PM,1:15 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2060,2060,No,Mountains,7/5/2022,9:33 AM,10:32 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2061,2061,No,Compass,7/5/2022,10:54 AM,11:51 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2062,2062,No,Mountains,7/5/2022,12:25 PM,2:01 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2063,2063,No,Compass,7/5/2022,2:04 PM,3:05 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2064,2064,No,Mountains,7/5/2022,3:29 PM,4:34 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2065,2065,No,Compass,7/5/2022,4:45 PM,5:39 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2066,2066,No,Mountains,7/7/2022,9:26 AM,10:28 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2067,2067,No,Compass,7/11/2022,9:29 AM,10:52 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+2068,2068,No,Mountains,7/11/2022,12:49 PM,1:51 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2069,2069,No,Compass,7/12/2022,10:57 AM,12:35 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Tobler Museum
+2070,2070,No,Mountains,7/13/2022,9:01 AM,10:02 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Lynch Station
+2071,2071,No,Compass,7/13/2022,12:30 PM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2072,2072,No,Mountains,7/15/2022,10:47 AM,12:07 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2073,2073,No,Compass,7/18/2022,10:48 AM,11:48 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2074,2074,No,Mountains,7/19/2022,10:57 AM,12:00 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2075,2075,No,Compass,7/19/2022,12:20 PM,1:35 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2076,2076,No,Mountains,7/19/2022,1:57 PM,2:55 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2077,2077,No,Compass,7/19/2022,4:48 PM,5:59 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Lynch Station
+2078,2078,No,Mountains,7/20/2022,9:30 AM,10:40 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2079,2079,No,Compass,7/20/2022,2:30 PM,3:27 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Golledge Hall
+2080,2080,No,Compass,7/21/2022,11:48 AM,1:18 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2081,2081,No,Compass,7/22/2022,11:01 AM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2082,2082,No,Compass,7/26/22022,10:57 AM,n/a,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",n/a
+2083,2083,No,Mountains,7/28/2022,9:35 AM,10:31 AM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Batty House
+2084,2084,No,Mountains,7/28/2022,12:38 PM,1:57 PM,"NSQ; SBSOD; Demographics; VGQ; A,B,C1,C2,Pointing with and without compass (orientation of compass normal and along route)",Sauer Center
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

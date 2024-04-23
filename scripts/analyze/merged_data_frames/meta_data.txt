@@ -1,0 +1,14 @@
+updated: 5/1/2023 by Ece Yuksel
+merge the data first based on experiment with merging_data_updated_Exp1-2
+
+then run first_route_add R script for the first routes and get the both_exp_final saved
+
+jasp_code => rename the column names so that all tables and output in JASP is correct and consistent
+copy-pasted code from JASP
+
+
+run the code in JASP 
+
+
+For Exp1, there should be 56 total subjects for pointing task; 54 subjects for model-building task (due to technical error). 
+For Exp2, there should be 67 subjects for pointing task; 61 for model-building due to double model-building task due to experimenter error. 

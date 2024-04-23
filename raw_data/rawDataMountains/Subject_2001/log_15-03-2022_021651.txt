@@ -1,0 +1,8 @@
+log_15-03-2022_021651.txt
+
+Scene Name is Silcton_B_Arrows_VR_mountains
+
+Participant ID is 2001
+
+x,y,z,walking_angle,head_angle
+
