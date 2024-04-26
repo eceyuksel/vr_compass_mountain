@@ -1,4 +1,4 @@
-#@eceyuksel 10/30/2023
+#
 #other pointing cue direction analyses
 
 # Load the readr package

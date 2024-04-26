@@ -1,5 +1,4 @@
-#@eceyuksel
-#2023-05-30
+
 
 library(ggplot2)
 library(circular)

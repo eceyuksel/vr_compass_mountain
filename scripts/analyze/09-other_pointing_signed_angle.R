@@ -1,4 +1,4 @@
-#@eceyuksel 10/19/2023
+
 
 #getting the "global angles"other"pointing trials to see if participants pointed to a consistent direction
 #and reanalyzing the other_pointing error for each trial with signed

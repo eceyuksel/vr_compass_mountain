@@ -1,5 +1,3 @@
-#@eceyuksel
-#2023-06-01
 
 #set up data directory
 os_sep <- .Platform$file.sep
